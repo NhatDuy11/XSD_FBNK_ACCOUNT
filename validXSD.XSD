@@ -105,7 +105,7 @@
         <xs:element name="c217" type="xs:string" minOccurs="0" maxOccurs="1"/>
         <xs:element name="c218" type="xs:string" minOccurs="0" maxOccurs="1"/>
         <xs:element name="c219" type="xs:string" minOccurs="0" maxOccurs="1"/>
-	<xs:any processContents="skip" minOccurs="0" maxOccurs="unbounded"/>
+	
       </xs:sequence>
       <xs:attribute name="id" type="xs:string" use="required" />
     </xs:complexType>
