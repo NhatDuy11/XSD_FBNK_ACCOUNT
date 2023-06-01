@@ -82,7 +82,9 @@
         "c218": { "type": "array", "items": { "type": "string" } },
         "c219": { "type": "array", "items": { "type": "string" } }
       },
-      "id": ""
+      "id": {
+      "type": "string"
+    }
     }
   }
 }
