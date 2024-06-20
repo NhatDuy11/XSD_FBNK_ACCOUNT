@@ -53,7 +53,7 @@
           <xs:complexType>
             <xs:simpleContent>
               <xs:extension base="xs:string">
-                <xs:attribute name="m" type="xs:string" use="optional" />
+                <xs:attribute name="m" type="xs:unsignedShort" use="optional" />
               </xs:extension>
             </xs:simpleContent>
           </xs:complexType>
@@ -62,7 +62,7 @@
           <xs:complexType>
             <xs:simpleContent>
               <xs:extension base="xs:string">
-                <xs:attribute name="m" type="xs:string" use="optional" />
+                <xs:attribute name="m" type="xs:unsignedShort" use="optional" />
               </xs:extension>
             </xs:simpleContent>
           </xs:complexType>
@@ -96,7 +96,7 @@
           <xs:complexType>
             <xs:simpleContent>
               <xs:extension base="xs:string">
-                <xs:attribute name="m" type="xs:string" use="optional" />
+                <xs:attribute name="m" type="xs:unsignedShort" use="optional" />
               </xs:extension>
             </xs:simpleContent>
           </xs:complexType>
