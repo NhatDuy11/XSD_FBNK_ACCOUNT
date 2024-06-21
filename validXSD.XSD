@@ -49,6 +49,7 @@
         <xs:element name="c94" type="xs:string" minOccurs="0" maxOccurs="1"/>
         <xs:element name="c95" type="xs:string" minOccurs="0" maxOccurs="1"/>
         <xs:element name="c96" type="xs:string" minOccurs="0" maxOccurs="1"/>
+        <xs:element name="c99" type="xs:string" minOccurs="0" maxOccurs="1"/>
         <xs:element minOccurs="0" maxOccurs="unbounded" name="c100">
           <xs:complexType>
             <xs:simpleContent>
